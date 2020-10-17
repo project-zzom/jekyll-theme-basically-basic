@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ko-KR
-title: Project ZZOM
-email:
-description:
+title: PROJECT ZZOM
+email: project-zzom@gmail.com
+description: One-Person Publishing Project
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
-  twitter:
-  picture:
+  name: Shin Sang-jae
+  twitter: @codelabor
+  picture: /assets/images/profile.png
 twitter_username:
 github_username:
 logo: "/assets/images/zzom-white-1900x1900.png" # path of site logo
