@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ko-KR
-title: PROJECT ZZOM
+title: 1인출판사 ZZOM #1인출판 프로젝트 ZZOM
 email: project-zzom@gmail.com
-description: One-Person Publishing Project
+description: 자급자족형 1인출판 프로젝트 블로그
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: Shin Sang-jae
-  twitter: @codelabor
+  name: 신상재
+  twitter: codelabor
   picture: /assets/images/profile.png
 twitter_username:
 github_username:
-logo: "/assets/images/zzom-white-1900x1900.png" # path of site logo
+logo: "/assets/images/zzom-logo-dark.png" # path of site logo
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
