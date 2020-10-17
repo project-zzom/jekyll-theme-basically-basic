@@ -1,6 +1,6 @@
 ---
 layout: home
-image: /assets/images/zzom-banner-light-4.png
+image: /assets/images/zzom-banner-light-3.png
 introduction: |
   > 번역을 하려고 출판사를 차렸어요.
 
