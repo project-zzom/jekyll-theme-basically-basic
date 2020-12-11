@@ -4,4 +4,5 @@
 * [교보문고](http://image.kyobobook.co.kr/download/elibrary/b2c/KyoboeBook_Setup.exe)
 * Yes24
 * [리디북스](https://ridibooks.com/support/app/download)
+* [밀리의 서재](https://www.millie.co.kr/customer/app.html)
 * [네이버](https://series.naver.com/booksviewer/html/nstore/epub_install_guide.htm)
